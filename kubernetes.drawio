@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T07:51:42.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="aJxGKT9b1Eym0BnMSmu2" version="22.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T16:09:04.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="upaX8a3OD_ZrlhgOlXjg" version="22.0.1" type="github">
   <diagram name="Page-1" id="km8Koy0ImJRWb3xCqAzb">
     <mxGraphModel dx="1290" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -29,16 +29,16 @@
           <mxGeometry x="440" y="141" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="EdhjLjBgmWesbDHsQxGN-10" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=ns" vertex="1" parent="1">
-          <mxGeometry x="770" y="146" width="50" height="48" as="geometry" />
+          <mxGeometry x="741" y="142" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="EdhjLjBgmWesbDHsQxGN-12" value="default" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="210" y="151" width="180" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="EdhjLjBgmWesbDHsQxGN-14" value="project-kubernetes&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="503" y="148.5" width="170" height="33" as="geometry" />
+        <mxCell id="EdhjLjBgmWesbDHsQxGN-14" value="monitoring" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="500" y="150.5" width="197" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="EdhjLjBgmWesbDHsQxGN-16" value="monitoring" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="831" y="152" width="169" height="33" as="geometry" />
+        <mxCell id="EdhjLjBgmWesbDHsQxGN-16" value="project-kubernetes" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="803" y="152" width="187" height="33" as="geometry" />
         </mxCell>
         <mxCell id="EdhjLjBgmWesbDHsQxGN-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="630" y="512" width="240" height="240" as="geometry" />
